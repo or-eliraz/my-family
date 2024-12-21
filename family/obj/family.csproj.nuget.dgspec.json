@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\אור\\family\\family\\family.csproj": {}
+    "D:\\אור\\family.or\\my-family\\family\\family.csproj": {}
   },
   "projects": {
-    "D:\\אור\\family\\family\\family.csproj": {
+    "D:\\אור\\family.or\\my-family\\family\\family.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\אור\\family\\family\\family.csproj",
+        "projectUniqueName": "D:\\אור\\family.or\\my-family\\family\\family.csproj",
         "projectName": "family",
-        "projectPath": "D:\\אור\\family\\family\\family.csproj",
+        "projectPath": "D:\\אור\\family.or\\my-family\\family\\family.csproj",
         "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-        "outputPath": "D:\\אור\\family\\family\\obj\\",
+        "outputPath": "D:\\אור\\family.or\\my-family\\family\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
